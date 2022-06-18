@@ -48,6 +48,31 @@ h1 {
     color: azure;
 }
 
+.third-container {
+    background-color: black;
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    height: 20vh;
+    padding: 20px;
+}
+
+.third-container h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.third-container p {
+    margin-bottom: 20px;
+}
+
+.third-container ul {
+    margin: 0px 0px 20px 18px;
+}
+
+.third-container ol {
+    margin: 0px 0px 20px 18px;
+}
 
 /*************** Chicken Page ***************/
 .chicken-img {
