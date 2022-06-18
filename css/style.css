@@ -5,6 +5,13 @@
     background-color: black;
 }
 
+/*************** Global ***************/
+
+.main-logo {
+    text-decoration: none;
+    color: azure;
+}
+
 h1 {
     font-size: 80px;
 }
@@ -21,11 +28,10 @@ h1 {
     flex-direction: column;
     height: 20vh;
     padding: 20px;
-    text-align: right;
 }
 
 .secondary-container {
-    background-image: url(/odin-recipes/img/headbg.jpg);
+    background-image: url(/img/headbg.jpg);
     background-size: cover;
     background-position: center;
     height: 100px;
@@ -40,4 +46,20 @@ h1 {
 .main-container ul li a {
     text-decoration: none;
     color: azure;
+}
+
+
+/*************** Chicken Page ***************/
+.chicken-img {
+    background-image: url(/img/chicken.jpg);
+}
+
+/*************** Cookie Page ***************/
+.cookie-img {
+    background-image: url(/img/cookie.jpg);
+}
+
+/*************** Cookie Page ***************/
+.soup-img {
+    background-image: url(/img/soup.jpg);
 }
