@@ -31,7 +31,7 @@ h1 {
 }
 
 .secondary-container {
-    background-image: url(./img/headbg.jpg);
+    background-image: url(../img/headbg.jpg);
     background-position: center;
     height: 20vh;
     width: 20vw;
@@ -77,15 +77,15 @@ h1 {
 
 /*************** Chicken Page ***************/
 .chicken-img {
-    background-image: url(./img/chicken.jpg);
+    background-image: url(../img/chicken.jpg);
 }
 
 /*************** Cookie Page ***************/
 .cookie-img {
-    background-image: url(./img/cookie.jpg);
+    background-image: url(../img/cookie.jpg);
 }
 
 /*************** Cookie Page ***************/
 .soup-img {
-    background-image: url(./img/soup.jpg);
+    background-image: url(../img/soup.jpg);
 }
